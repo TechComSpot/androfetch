@@ -6,7 +6,7 @@
 **Note**: Use meslo nerd font.
  
 
-### created by [Laraib07](https://github.com/laraib07)
+### created by [TechComSpot]
 
 ## Installation
 
